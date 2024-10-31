@@ -1,0 +1,341 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NGO-production\n"
+"POT-Creation-Date: 2016-08-08 08:27+0200\n"
+"PO-Revision-Date: 2016-08-08 08:27+0200\n"
+"Last-Translator: George Bredberg <george@bona.nu>\n"
+"Language-Team: George Bredberg <george@bona.nu>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ngo-production.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ngo-production.php:39
+msgid ""
+"Tillägget Teaterproduktioner behöver tillägget \"WP Custom Taxonomy Image\" "
+"för att visa bilder till skådespelare och scener."
+msgstr ""
+"The plugin theatre productions need the plugin \"WP Custom Taxonomy Image\" "
+"to view pictures of the actors and scenes."
+
+#: ngo-production.php:77
+msgctxt "post type general name"
+msgid "Produktioner"
+msgstr "Productions"
+
+#: ngo-production.php:78
+msgctxt "post type singular name"
+msgid "Produktion"
+msgstr "Production"
+
+#: ngo-production.php:79
+msgctxt "book"
+msgid "Lägg till ny"
+msgstr "Add New"
+
+#: ngo-production.php:80
+msgid "Lägg till ny produktion"
+msgstr "Add New Production"
+
+#: ngo-production.php:81
+msgid "Ändra produktion"
+msgstr "Change production"
+
+#: ngo-production.php:82
+msgid "Ny produktion"
+msgstr "New production"
+
+#: ngo-production.php:83
+msgid "Alla produktioner"
+msgstr "All Productions"
+
+#: ngo-production.php:84
+msgid "Visa produktion"
+msgstr "Show production"
+
+#: ngo-production.php:85
+msgid "Sök produktion"
+msgstr "Search production"
+
+#: ngo-production.php:86
+msgid "Hittade inga produktioner"
+msgstr "No productions found"
+
+#: ngo-production.php:87
+msgid "Hittade inga produktioner i papperskorgen"
+msgstr "No productions found in the trash"
+
+#: ngo-production.php:108
+msgid "Affish"
+msgstr "Poster"
+
+#: ngo-production.php:116
+#, php-format
+msgid "Produktionen är uppdaterad. <a href=\"%s\">Visa produktion</a>"
+msgstr "Production updated. <a href=\"%s\">View post</a>"
+
+#: ngo-production.php:117
+msgid "Anpassat fält är uppdaterat."
+msgstr "Custom field updated."
+
+#: ngo-production.php:118
+msgid "Anpassat fält är borttaget."
+msgstr "Custom field deleted."
+
+#: ngo-production.php:119
+msgid "Produktionen uppdaterad."
+msgstr "Production updated. "
+
+#: ngo-production.php:120
+#, php-format
+msgid "Produktionen är återställd till revision från %s"
+msgstr "Production is restored to audit from %s"
+
+#: ngo-production.php:121
+#, php-format
+msgid "Produktionen är publicerad. <a href=\"%s\">Visa produktion</a>"
+msgstr "Production is published. <a href=\"%s\">Show production</a>"
+
+#: ngo-production.php:122
+msgid "Produktionen sparad."
+msgstr "The production is saved."
+
+#: ngo-production.php:123
+#, php-format
+msgid ""
+"Produktionen är tillagd. <a target=\"_blank\" href=\"%s\">Förhandsvisa "
+"produktion</a>"
+msgstr ""
+"Production is added. <a target=\"_blank\" href=\"%s\">Preview production</a>"
+
+#: ngo-production.php:124
+#, php-format
+msgid ""
+"Produktionen är schemalagd för: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Förhandsvisa produktion</a>"
+msgstr ""
+"The production is scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview production</a>"
+
+#: ngo-production.php:124
+msgid "M j, Y @ G:i"
+msgstr "M j, Y @ G:i"
+
+#: ngo-production.php:125
+#, php-format
+msgid ""
+"Utkastet till produktionen är uppdaterat. <a target=\"_blank\" href=\"%s"
+"\">Förhandsvisa produktionen</a>"
+msgstr ""
+"Production draft is updated. <a target=\"_blank\" href=\"%s\">Preview "
+"production</a>"
+
+#: ngo-production.php:160
+msgctxt "taxonomy general name"
+msgid "Genre för produktioner"
+msgstr "Production Genre"
+
+#: ngo-production.php:161
+msgctxt "taxonomy singular name"
+msgid "Genre för produktion"
+msgstr "Production Genre"
+
+#: ngo-production.php:162
+msgid "Sök genre för produktioner"
+msgstr "Search genre for productions"
+
+#: ngo-production.php:163
+msgid "Alla Produktionsgenrer"
+msgstr "All Production Genres"
+
+#: ngo-production.php:164
+msgid "Förälder produktionsgenre"
+msgstr "Parent production genre"
+
+#: ngo-production.php:165
+msgid "Förälder produktionsgenre:"
+msgstr "Parent production genre:"
+
+#: ngo-production.php:166
+msgid "ändra produktionsgenre"
+msgstr "change production genre"
+
+#: ngo-production.php:167
+msgid "Uppdatera produktionsgenre"
+msgstr "Update production genre"
+
+#: ngo-production.php:168
+msgid "Lägg till produktionsgenre"
+msgstr "Add production genre"
+
+#: ngo-production.php:169
+msgid "Ny produktionsgenre"
+msgstr "New production genre"
+
+#: ngo-production.php:170
+msgid "Produktionsgenre"
+msgstr "Production genre"
+
+#: ngo-production.php:180
+msgctxt "taxonomy general name"
+msgid "Scener"
+msgstr "Venues"
+
+#: ngo-production.php:181
+msgctxt "taxonomy singular name"
+msgid "Scen"
+msgstr "Venue"
+
+#: ngo-production.php:182 ngo-production.php:190
+msgid "Scener"
+msgstr "Venues"
+
+#: ngo-production.php:183
+msgid "Alla Scener"
+msgstr "All Venues"
+
+#: ngo-production.php:184
+msgid "Förälder Scen"
+msgstr "Parent Venue"
+
+#: ngo-production.php:185
+msgid "Förälder Scen:"
+msgstr "Parent Venue:"
+
+#: ngo-production.php:186
+msgid "ändra Scen"
+msgstr "Change Venue"
+
+#: ngo-production.php:187
+msgid "Uppdatera Scen"
+msgstr "Update Venue"
+
+#: ngo-production.php:188
+msgid "Lägg till Scen"
+msgstr "Add Venue"
+
+#: ngo-production.php:189
+msgid "Nytt namn på Scen"
+msgstr "New name on Venue"
+
+#: ngo-production.php:204
+msgctxt "taxonomy general name"
+msgid "Skådespelare"
+msgstr "Actors"
+
+#: ngo-production.php:205
+msgctxt "taxonomy singular name"
+msgid "Skådespelare"
+msgstr "Actor"
+
+#: ngo-production.php:206 ngo-production.php:219
+msgid "Skådespelare"
+msgstr "Actors"
+
+#: ngo-production.php:207
+msgid "Populära Skådespelare"
+msgstr "Popular Actors"
+
+#: ngo-production.php:208
+msgid "Alla Skådespelare"
+msgstr "All Actors"
+
+#: ngo-production.php:211
+msgid "ändra Skådespelare"
+msgstr "change Actor"
+
+#: ngo-production.php:212
+msgid "Uppdatera Skådespelare"
+msgstr "Update Actor"
+
+#: ngo-production.php:213
+msgid "Lägg till Skådespelare"
+msgstr "Add Actor"
+
+#: ngo-production.php:214
+msgid "Nytt namn på Skådespelare"
+msgstr "New name for the Actor"
+
+#: ngo-production.php:215
+msgid "Separera Skådespelare med kommatecken"
+msgstr "Separate the Actors with a comma"
+
+#: ngo-production.php:216
+msgid "Lägg till eller ta bort Skådespelare"
+msgstr "Add or remove Actor"
+
+#: ngo-production.php:217
+msgid "Välj från mest använda Skådespelare"
+msgstr "Select from mostly used Actors"
+
+#: ngo-production.php:218
+msgid "Hittade inga Skådespelare. (Kanske du ska skapa några?)"
+msgstr "Did not find any Actor. (Maybe you should create some?)"
+
+#: ngo-production.php:237
+msgid "Övrig information"
+msgstr "Additional info"
+
+#: ngo-production.php:267
+msgid "Medarbetare, utöver skådespelare:"
+msgstr "Coworkers, other then actors:"
+
+#: ngo-production.php:268
+msgid ""
+"Ange metainfo, som scenograf, &#10;manusförfattare, sminkör&#10;Till exempel;"
+"&#10;Regi: Någon Person&#10;Manus: Någon Annan"
+msgstr ""
+"Enter the metainfo, like set designer, script writer &#10;, make-up artist "
+"&#10; for example; &#10; Director: Any Person &#10; Script: Someone Else"
+
+#: ngo-production.php:271
+msgid "Datum första föreställningen:"
+msgstr "Date of first performance:"
+
+#: ngo-production.php:298
+msgid "Datum sista föreställningen:"
+msgstr "Date of last performance:"
+
+#: ngo-production.php:328
+msgid "Antal spelningar:"
+msgstr "Number of performances:"
+
+#: ngo-production.php:332
+msgid "Köp biljetter här url:"
+msgstr "Buy tickets here url:"
+
+#. Plugin Name of the plugin/theme
+msgid "NGO-production"
+msgstr "NGO-production"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://xn--freningsportalen-mwb.se"
+msgstr "http://xn--freningsportalen-mwb.se"
+
+#. Description of the plugin/theme
+msgid ""
+"Tillägg för att kunna skapa event av typen teaterproduktion. Skapar en "
+"custom post type production med artist taxonomy m.m. Behöver bara vara aktiv "
+"på de föreningssidor som behöver den."
+msgstr ""
+"Plugin to create events of the type \"Theater production\". Creates a custom "
+"post type production with sctors taxonomy etc. It only needs to be active on "
+"the sites that needs it."
+
+#. Author of the plugin/theme
+msgid "George Bredberg"
+msgstr "George Bredberg"
+
+#~ msgid "Föreningsportalen"
+#~ msgstr "NGO-portal"

@@ -1,0 +1,337 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Project-Id-Version: NGO-production\n"
+"POT-Creation-Date: 2016-08-08 10:17+0200\n"
+"PO-Revision-Date: 2016-08-08 13:03+0200\n"
+"Language-Team: George Bredberg <george@bona.nu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ngo-production.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: ar\n"
+"X-Poedit-Bookmarks: -1,-1,-1,-1,-1,-1,-1,23,-1,-1\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ngo-production.php:39
+msgid ""
+"Tillägget Teaterproduktioner behöver tillägget \"WP Custom Taxonomy Image\" "
+"för att visa bilder till skådespelare och scener."
+msgstr ""
+"الإضافة \"العروض المسرحية\" بحاجة للإضافة  \" WP Custom Taxonomy Image \" "
+"لعرض صور الممثلين والمشاهد."
+
+#: ngo-production.php:77
+msgctxt "post type general name"
+msgid "Produktioner"
+msgstr "العروض"
+
+#: ngo-production.php:78
+msgctxt "post type singular name"
+msgid "Produktion"
+msgstr "العرض"
+
+#: ngo-production.php:79
+msgctxt "book"
+msgid "Lägg till ny"
+msgstr "إضافة جديد"
+
+#: ngo-production.php:80
+msgid "Lägg till ny produktion"
+msgstr "إضافة عرض جديد"
+
+#: ngo-production.php:81
+msgid "Ändra produktion"
+msgstr "تعديل العرض"
+
+#: ngo-production.php:82
+msgid "Ny produktion"
+msgstr "عرض جديد"
+
+#: ngo-production.php:83
+msgid "Alla produktioner"
+msgstr "كل العروض"
+
+#: ngo-production.php:84
+msgid "Visa produktion"
+msgstr "إظهار العرض"
+
+#: ngo-production.php:85
+msgid "Sök produktion"
+msgstr "البحث عن عرض"
+
+#: ngo-production.php:86
+msgid "Hittade inga produktioner"
+msgstr "لايوجد عروض"
+
+#: ngo-production.php:87
+msgid "Hittade inga produktioner i papperskorgen"
+msgstr "لايوجد عروض في سلة المحذوفات"
+
+#: ngo-production.php:108
+msgid "Affish"
+msgstr "ملصق"
+
+#: ngo-production.php:116
+#, php-format
+msgid "Produktionen är uppdaterad. <a href=\"%s\">Visa produktion</a>"
+msgstr "تم تحديث العرض. <a href=\"%s\">إظهار العرض </a>"
+
+#: ngo-production.php:117
+msgid "Anpassat fält är uppdaterat."
+msgstr "تحديث الحقل المخصص."
+
+#: ngo-production.php:118
+msgid "Anpassat fält är borttaget."
+msgstr "إزالة الحقل المخصص."
+
+#: ngo-production.php:119
+msgid "Produktionen uppdaterad."
+msgstr "تم تحديث العرض."
+
+#: ngo-production.php:120
+#, php-format
+msgid "Produktionen är återställd till revision från %s"
+msgstr "تم استعادة العرض للمراجعة من %s"
+
+#: ngo-production.php:121
+#, php-format
+msgid "Produktionen är publicerad. <a href=\"%s\">Visa produktion</a>"
+msgstr "تم نشر العرض. <a href=%s> إظهار العرض </a>"
+
+#: ngo-production.php:122
+msgid "Produktionen sparad."
+msgstr "تم حفظ العرض."
+
+#: ngo-production.php:123
+#, php-format
+msgid ""
+"Produktionen är tillagd. <a target=\"_blank\" href=\"%s\">Förhandsvisa "
+"produktion</a>"
+msgstr "تم إضافة العرض. <a target=\"_blank\" href=\"%s\"> معاينة العرض </a>"
+
+#: ngo-production.php:124
+#, php-format
+msgid ""
+"Produktionen är schemalagd för: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Förhandsvisa produktion</a>"
+msgstr ""
+"المخطط الزمني للعرض : <strong>%1$s</strong>. <a target=\"_blank\" href=\"%2$s"
+"\"> معاينة العرض </a>"
+
+#: ngo-production.php:124
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ngo-production.php:125
+#, php-format
+msgid ""
+"Utkastet till produktionen är uppdaterat. <a target=\"_blank\" href=\"%s"
+"\">Förhandsvisa produktionen</a>"
+msgstr ""
+"تم تعديل مسودة المشروع <a target=\"_blank\" href=\"%s\"> معاينة العرض </a>"
+
+#: ngo-production.php:160
+msgctxt "taxonomy general name"
+msgid "Genre för produktioner"
+msgstr "نوع العروض"
+
+#: ngo-production.php:161
+msgctxt "taxonomy singular name"
+msgid "Genre för produktion"
+msgstr "نوع العرض"
+
+#: ngo-production.php:162
+msgid "Sök genre för produktioner"
+msgstr "البحث عن العرض حسب النوع"
+
+#: ngo-production.php:163
+msgid "Alla Produktionsgenrer"
+msgstr "كل أنواع العروض"
+
+#: ngo-production.php:164
+msgid "Förälder produktionsgenre"
+msgstr "النوع الاصلي للعرض"
+
+#: ngo-production.php:165
+msgid "Förälder produktionsgenre:"
+msgstr "النوع الاصلي للعرض"
+
+#: ngo-production.php:166
+msgid "ändra produktionsgenre"
+msgstr "تغيير نوع العرض"
+
+#: ngo-production.php:167
+msgid "Uppdatera produktionsgenre"
+msgstr "تحديث نوع العرض"
+
+#: ngo-production.php:168
+msgid "Lägg till produktionsgenre"
+msgstr "إضافة نوع عرض"
+
+#: ngo-production.php:169
+msgid "Ny produktionsgenre"
+msgstr "نوع عرض جديد"
+
+#: ngo-production.php:170
+msgid "Produktionsgenre"
+msgstr "نوع العرض"
+
+#: ngo-production.php:180
+msgctxt "taxonomy general name"
+msgid "Scener"
+msgstr "مَشاهد"
+
+#: ngo-production.php:181
+msgctxt "taxonomy singular name"
+msgid "Scen"
+msgstr "مشهد"
+
+#: ngo-production.php:182 ngo-production.php:190
+msgid "Scener"
+msgstr "مَشاهد"
+
+#: ngo-production.php:183
+msgid "Alla Scener"
+msgstr "كل المَشاهد"
+
+#: ngo-production.php:184
+msgid "Förälder Scen"
+msgstr "المشهد الأصلي"
+
+#: ngo-production.php:185
+msgid "Förälder Scen:"
+msgstr "المَشهد الأصلي"
+
+#: ngo-production.php:186
+msgid "ändra Scen"
+msgstr "تغيير المشهد"
+
+#: ngo-production.php:187
+msgid "Uppdatera Scen"
+msgstr "تحديث المشهد"
+
+#: ngo-production.php:188
+msgid "Lägg till Scen"
+msgstr "إضافة مشهد"
+
+#: ngo-production.php:189
+msgid "Nytt namn på Scen"
+msgstr "إسم جديد للمشهد"
+
+#: ngo-production.php:204
+msgctxt "taxonomy general name"
+msgid "Skådespelare"
+msgstr "الممثلين"
+
+#: ngo-production.php:205
+msgctxt "taxonomy singular name"
+msgid "Skådespelare"
+msgstr "الممثل"
+
+#: ngo-production.php:206 ngo-production.php:219
+msgid "Skådespelare"
+msgstr "ممثل"
+
+#: ngo-production.php:207
+msgid "Populära Skådespelare"
+msgstr "ممثل مشهور"
+
+#: ngo-production.php:208
+msgid "Alla Skådespelare"
+msgstr "كل الممثلين"
+
+#: ngo-production.php:211
+msgid "ändra Skådespelare"
+msgstr "تغيير الممثلين"
+
+#: ngo-production.php:212
+msgid "Uppdatera Skådespelare"
+msgstr "تحديث الممثلين"
+
+#: ngo-production.php:213
+msgid "Lägg till Skådespelare"
+msgstr "إضافة ممثل"
+
+#: ngo-production.php:214
+msgid "Nytt namn på Skådespelare"
+msgstr "الاسم الجديد للمثل"
+
+#: ngo-production.php:215
+msgid "Separera Skådespelare med kommatecken"
+msgstr "فصل الممثلين باستخدام الفاصلة"
+
+#: ngo-production.php:216
+msgid "Lägg till eller ta bort Skådespelare"
+msgstr "إضافة أو حذف ممثل"
+
+#: ngo-production.php:217
+msgid "Välj från mest använda Skådespelare"
+msgstr "الاختيار من بين الممثلين الاكثر استخداما"
+
+#: ngo-production.php:218
+msgid "Hittade inga Skådespelare. (Kanske du ska skapa några?)"
+msgstr "لم يتم إيجاد أي ممثل. ( ربما عليك إضافة البعض؟)"
+
+#: ngo-production.php:237
+msgid "Övrig information"
+msgstr "معلومات أخرى"
+
+#: ngo-production.php:267
+msgid "Medarbetare, utöver skådespelare:"
+msgstr "العاملين, بالإضافة إلى الممثلين :"
+
+#: ngo-production.php:268
+msgid ""
+"Ange metainfo, som scenograf, &#10;manusförfattare, sminkör&#10;Till exempel;"
+"&#10;Regi: Någon Person&#10;Manus: Någon Annan"
+msgstr ""
+"أدخل معلومات الميتا, مثل المصمم,  &#10; مثلا&#10; تسجيل : شخص ما; سيناريو : "
+"شخص آخر"
+
+#: ngo-production.php:271
+msgid "Datum första föreställningen:"
+msgstr "تاريخ أول عرض:"
+
+#: ngo-production.php:298
+msgid "Datum sista föreställningen:"
+msgstr "تاريخ آخر عرض:"
+
+#: ngo-production.php:328
+msgid "Antal spelningar:"
+msgstr "عدد العروض:"
+
+#: ngo-production.php:332
+msgid "Köp biljetter här url:"
+msgstr "اشتري البطاقات من هذا الرابط:"
+
+#. Plugin Name of the plugin/theme
+msgid "NGO-production"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://xn--freningsportalen-mwb.se"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Tillägg för att kunna skapa event av typen teaterproduktion. Skapar en "
+"custom post type production med artist taxonomy m.m. Behöver bara vara aktiv "
+"på de föreningssidor som behöver den."
+msgstr ""
+"إضافة لخلق إضافات من نوع مسرح, يخلق نوع خاص من الصفحات مع اسماء الفنانين .."
+"الخ, يحتاج فقط إلى التنشيط في صفحة الجمعية التي تتطلب ذلك."
+
+#. Author of the plugin/theme
+msgid "Föreningsportalen"
+msgstr "بوابة الجمعيات"

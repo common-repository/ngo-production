@@ -1,0 +1,382 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: NGO-production\n"
+"POT-Creation-Date: 2016-12-14 14:27+0100\n"
+"PO-Revision-Date: 2016-12-14 14:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: ngo-production.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: ngo-production.php:39
+msgid ""
+"The plugin theatre production need the plugin \"WP Custom Taxonomy Image\" "
+"to view pictures of the actors and scenes."
+msgstr ""
+
+#: ngo-production.php:77
+msgctxt "post type general name"
+msgid "Productions"
+msgstr ""
+
+#: ngo-production.php:78
+msgctxt "post type singular name"
+msgid "Production"
+msgstr ""
+
+#: ngo-production.php:79
+msgctxt "book"
+msgid "Add New"
+msgstr ""
+
+#: ngo-production.php:80
+msgid "Add New Production"
+msgstr ""
+
+#: ngo-production.php:81 ngo-production.php:148
+msgid "Change production"
+msgstr ""
+
+#: ngo-production.php:82
+msgid "New production"
+msgstr ""
+
+#: ngo-production.php:83
+msgid "All Productions"
+msgstr ""
+
+#: ngo-production.php:84
+msgid "Show production"
+msgstr ""
+
+#: ngo-production.php:85
+msgid "Search production"
+msgstr ""
+
+#: ngo-production.php:86
+msgid "No productions found"
+msgstr ""
+
+#: ngo-production.php:87
+msgid "No productions found in the trash"
+msgstr ""
+
+#: ngo-production.php:90 ngo-production.php:142
+msgid "Productions"
+msgstr ""
+
+#: ngo-production.php:94
+msgid "Creates post type for productions and production specific data"
+msgstr ""
+
+#: ngo-production.php:108
+msgid "Poster"
+msgstr ""
+
+#: ngo-production.php:116
+#, php-format
+msgid "Production updated. <a href=\"%s\">View post</a>"
+msgstr ""
+
+#: ngo-production.php:117
+msgid "Custom field updated."
+msgstr ""
+
+#: ngo-production.php:118
+msgid "Custom field deleted."
+msgstr ""
+
+#: ngo-production.php:119
+msgid "Production updated."
+msgstr ""
+
+#: ngo-production.php:120
+#, php-format
+msgid "Production is restored to audit from %s"
+msgstr ""
+
+#: ngo-production.php:121
+#, php-format
+msgid "Production is published. <a href=\"%s\">Show production</a>"
+msgstr ""
+
+#: ngo-production.php:122
+msgid "The production is saved."
+msgstr ""
+
+#: ngo-production.php:123
+#, php-format
+msgid ""
+"Production is added. <a target=\"_blank\" href=\"%s\">Preview production</a>"
+msgstr ""
+
+#: ngo-production.php:124
+#, php-format
+msgid ""
+"The production is scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" "
+"href=\"%2$s\">Preview production</a>"
+msgstr ""
+
+#: ngo-production.php:124
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ngo-production.php:125
+#, php-format
+msgid ""
+"Production draft is updated. <a target=\"_blank\" href=\"%s\">Preview "
+"production</a>"
+msgstr ""
+
+#: ngo-production.php:143
+msgid ""
+"Productions provides information about theater productions that will be "
+"shown at your Web page. You can see a list of them on this page, in reverse "
+"order - the most recently added appears first."
+msgstr ""
+
+#: ngo-production.php:144
+msgid ""
+"You can view/modify the information about a production by clicking on its "
+"name, or by doing a bulk change by selecting several productions, and then "
+"use the drop list \"Select action ...\"."
+msgstr ""
+
+#: ngo-production.php:149
+msgid ""
+"On this page you can view and change information about theater productions. "
+"Please ensure that you fill in the forms with the appropriate information "
+"(production picture, actors, other participants, venue) and to <strong>not</"
+"strong> add this to the main page of the production. (If  you do then this "
+"information will appear twice on the page.)"
+msgstr ""
+
+#: ngo-production.php:150
+msgid ""
+"In the field \"Additional information\", you can add information about the "
+"Director, Scenografer, Props, etc."
+msgstr ""
+
+#: ngo-production.php:151
+msgid ""
+"It will look best if you type \"Header: Information\" and then add a new "
+"line. E.g. Scriptwriter: Important Person"
+msgstr ""
+
+#: ngo-production.php:152
+msgid ""
+"Don't forget to add a picture in the \"Selected picture\" field. It will "
+"appear as a thumbnail. It could be a copy of the production's poster, so "
+"it's easily recognized."
+msgstr ""
+
+#: ngo-production.php:161
+msgctxt "taxonomy general name"
+msgid "Productions Genre"
+msgstr ""
+
+#: ngo-production.php:162
+msgctxt "taxonomy singular name"
+msgid "Production Genre"
+msgstr ""
+
+#: ngo-production.php:163
+msgid "Search genre for productions"
+msgstr ""
+
+#: ngo-production.php:164
+msgid "All Production Genres"
+msgstr ""
+
+#: ngo-production.php:165
+msgid "Parent production genre"
+msgstr ""
+
+#: ngo-production.php:166
+msgid "Parent production genre:"
+msgstr ""
+
+#: ngo-production.php:167
+msgid "change production genre"
+msgstr ""
+
+#: ngo-production.php:168
+msgid "Update production genre"
+msgstr ""
+
+#: ngo-production.php:169
+msgid "Add production genre"
+msgstr ""
+
+#: ngo-production.php:170
+msgid "New production genre"
+msgstr ""
+
+#: ngo-production.php:171
+msgid "Production genre"
+msgstr ""
+
+#: ngo-production.php:181
+msgctxt "taxonomy general name"
+msgid "Venues"
+msgstr ""
+
+#: ngo-production.php:182
+msgctxt "taxonomy singular name"
+msgid "Venue"
+msgstr ""
+
+#: ngo-production.php:183 ngo-production.php:191
+msgid "Venues"
+msgstr ""
+
+#: ngo-production.php:184
+msgid "All Venues"
+msgstr ""
+
+#: ngo-production.php:185
+msgid "Parent Venue"
+msgstr ""
+
+#: ngo-production.php:186
+msgid "Parent Venue:"
+msgstr ""
+
+#: ngo-production.php:187
+msgid "Change Venue"
+msgstr ""
+
+#: ngo-production.php:188
+msgid "Update Venue"
+msgstr ""
+
+#: ngo-production.php:189
+msgid "Add Venue"
+msgstr ""
+
+#: ngo-production.php:190
+msgid "New name for Venue"
+msgstr ""
+
+#: ngo-production.php:205
+msgctxt "taxonomy general name"
+msgid "Actors"
+msgstr ""
+
+#: ngo-production.php:206
+msgctxt "taxonomy singular name"
+msgid "Actor"
+msgstr ""
+
+#: ngo-production.php:207 ngo-production.php:220
+msgid "Actors"
+msgstr ""
+
+#: ngo-production.php:208
+msgid "Popular Actors"
+msgstr ""
+
+#: ngo-production.php:209
+msgid "All Actors"
+msgstr ""
+
+#: ngo-production.php:212
+msgid "Change Actor"
+msgstr ""
+
+#: ngo-production.php:213
+msgid "Update Actor"
+msgstr ""
+
+#: ngo-production.php:214
+msgid "Add Actor"
+msgstr ""
+
+#: ngo-production.php:215
+msgid "New name for the Actor"
+msgstr ""
+
+#: ngo-production.php:216
+msgid "Separate the Actors with a comma"
+msgstr ""
+
+#: ngo-production.php:217
+msgid "Add or remove Actor"
+msgstr ""
+
+#: ngo-production.php:218
+msgid "Select from mostly used Actors"
+msgstr ""
+
+#: ngo-production.php:219
+msgid "Did not find any Actor. (Maybe you should create some?)"
+msgstr ""
+
+#: ngo-production.php:238
+msgid "Additional info"
+msgstr ""
+
+#: ngo-production.php:268
+msgid "Coworkers, other then actors:"
+msgstr ""
+
+#: ngo-production.php:269
+msgid ""
+"Enter the metainfo, like set designer, script writer &#10; make-up artist "
+"&#10; for example; &#10; Director: Any Person &#10; Script: Someone Else"
+msgstr ""
+
+#: ngo-production.php:272
+msgid "Date of first performance:"
+msgstr ""
+
+#: ngo-production.php:299
+msgid "Date of last performance:"
+msgstr ""
+
+#: ngo-production.php:299
+msgid "leave blank if only one gig"
+msgstr ""
+
+#: ngo-production.php:328
+msgid "Number of performances:"
+msgstr ""
+
+#: ngo-production.php:332
+msgid "Buy tickets here url:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "NGO-production"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://ngo-portal.org"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Plugin to create events of the type \"Theater production\". Creates a custom "
+"post type production with actors taxonomy etc. It only needs to be active on "
+"the sites that needs it."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "George Bredberg"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://datagaraget.se"
+msgstr ""
